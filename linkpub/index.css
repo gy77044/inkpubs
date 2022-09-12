@@ -8,7 +8,7 @@
   padding: 0;
   margin: 0;
   height:70vh;
-  background: url("/image/934072.webp") no-repeat center;
+  background: url("image/934072.webp") no-repeat center;
   background-size: auto;
 }
 
@@ -210,7 +210,7 @@ a{
   .banner{
     
     height:30vh;
-    background: url("/image/934072.webp") no-repeat center;
+    background: url("image/934072.webp") no-repeat center;
   }
   
   h1{
@@ -283,7 +283,7 @@ a{
 @media only screen and (max-width: 768px) and (min-width: 541px)  {
   .banner{
     height:50vh;
-    background: url("/image/934072.webp") no-repeat center;
+    background: url("image/934072.webp") no-repeat center;
   }
   
   h1{
